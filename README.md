@@ -2,11 +2,11 @@
 
 This repository contains a Jupyter notebook for analyzing the Titanic dataset. The dataset provides information about passengers on the Titanic, including demographic details and survival status.
 
-##Contents
+Contents
 train.csv: CSV file containing the dataset.
 task2.ipynb: Jupyter notebook with Python code for data analysis and visualization.
 
-##Usage
+Usage
 1.Loading the Dataset -The dataset are loaded using the library pandas
 
 2.Data Cleaning -Check for missing values and handle them appropriately. For example, missing values in the 'Age' column are filled with the median.
